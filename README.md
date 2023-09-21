@@ -29,4 +29,4 @@ https://vitalflux.com/pca-explained-variance-concept-python-example/#:~:text=Exp
 
 https://holoviz.org/tutorial/Composing_Plots.html (creating composite plots)
 
-https://chat.openai.com/share/530e6368-43ef-4405-a7bb-c16a9f7e2b2c (calculating explained variance and creating composite plots)
+https://chat.openai.com/share/530e6368-43ef-4405-a7bb-c16a9f7e2b2c (calculating explained variance, creating composite plots, and understanding the effect of using fewer features on clustering)
